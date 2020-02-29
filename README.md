@@ -1,7 +1,6 @@
 # overlay_rive
 
-A new Flutter application.
-
+Facebook styled overlays(when commenting "Congrats" etc) using Rive and flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
